@@ -24,5 +24,5 @@ int main() {
     sortVec(a);
      
       
-    return 0;
+     return 0;
 }
